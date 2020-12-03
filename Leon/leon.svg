@@ -9,12 +9,13 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="leon.svg"
-   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    id="svg8"
    version="1.1"
    viewBox="0 0 1300 1500"
    height="1500mm"
-   width="1300mm">
+   width="1300mm"
+   enable-background="new">
   <defs
      id="defs2">
     <inkscape:path-effect
@@ -730,6 +731,16 @@
        x2="402.29013"
        y2="-416.71899"
        gradientUnits="userSpaceOnUse" />
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter1614">
+      <feBlend
+         inkscape:collect="always"
+         mode="screen"
+         in2="BackgroundImage"
+         id="feBlend1616" />
+    </filter>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -738,21 +749,26 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.18723182"
-     inkscape:cx="3400.2403"
-     inkscape:cy="3398.7505"
+     inkscape:zoom="0.16097308"
+     inkscape:cx="2937.2008"
+     inkscape:cy="1264.3798"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="true"
      inkscape:lockguides="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:document-rotation="0"
-     inkscape:snap-global="true"
-     showguides="false" />
+     inkscape:snap-global="false"
+     showguides="false"
+     inkscape:snap-grids="false"
+     inkscape:snap-bbox="true"
+     inkscape:snap-others="false"
+     inkscape:snap-to-guides="false"
+     inkscape:snap-page="true" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -769,7 +785,8 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,1000)">
+     transform="translate(0,1000)"
+     style="filter:url(#filter1614)">
     <rect
        transform="rotate(45)"
        y="-520.1485"
@@ -964,7 +981,7 @@
          style="fill:#0000ff;stroke-width:0.611678"
          id="tspan1573-8">Flat.Sequence Rectangle Triangle Circle</tspan></text>
     <path
-       transform="matrix(1.5934837,1.1472797,-1.1595237,1.6104896,-207.54143,405.71193)"
+       transform="matrix(1.5934837,1.1472797,-1.1595237,1.6104896,-200.96683,398.31551)"
        inkscape:transform-center-y="4.2233615"
        inkscape:transform-center-x="17.945723"
        d="m 344.07032,-513.58459 -38.84217,0 -38.84217,0 19.42108,-33.63831 19.42109,-33.63831 19.42108,33.63831 z"
@@ -979,7 +996,7 @@
        sodipodi:cx="305.22815"
        sodipodi:sides="3"
        id="path3048-8-5-0-8-54"
-       style="fill:#ececec;stroke:#000000;stroke-width:0.5065914;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#ececec;stroke:#000000;stroke-width:0.50659138;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        sodipodi:type="star" />
     <text
        id="text1571-6-3"
@@ -1657,5 +1674,56 @@
          y="2.0295446"
          x="51.012527"
          sodipodi:role="line">KansaiF.EyeVision.Black-Sunkolor-Socalled:Transparent</tspan></text>
+    <rect
+       y="-34.769207"
+       x="1177.0359"
+       height="125.56602"
+       width="125.56602"
+       id="rect2230-6-5-54-1"
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path1579"
+       d="m 1123.2185,257.44539 h -62.7035 -62.70346 l 31.35166,-62.70731 31.3518,-62.70731 31.3518,62.70731 z"
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3048-2-2"
+       d="m 1035.5359,100.8014 c 34.7818,0 62.783,28.00123 62.783,62.78301 0,34.78178 -28.0012,62.78301 -62.783,62.78301 -34.7817,0 -62.78292,-28.00123 -62.78292,-62.78301 0,-34.78178 28.00122,-62.78301 62.78292,-62.78301 z"
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.99999994;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="rect2230-6-5-54-9"
+       width="125.56602"
+       height="125.56602"
+       x="782.77191"
+       y="165.89558" />
+    <rect
+       y="165.89558"
+       x="782.77191"
+       height="125.56602"
+       width="125.56602"
+       id="rect2230-4-4-6"
+       style="fill:#e6e6e6;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       rx="62.783009"
+       ry="62.783009" />
+    <path
+       sodipodi:type="star"
+       style="fill:#f2f2f2;stroke:#000000;stroke-width:0.57645285;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="path3048-2-4"
+       sodipodi:sides="3"
+       sodipodi:cx="305.22815"
+       sodipodi:cy="-536.01013"
+       sodipodi:r1="44.851074"
+       sodipodi:r2="22.425537"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.5707963"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="m 344.07032,-513.58459 -38.84217,0 -38.84217,0 19.42108,-33.63831 19.42109,-33.63831 19.42108,33.63831 z"
+       inkscape:transform-center-x="6.7311827e-06"
+       inkscape:transform-center-y="-20.902449"
+       transform="matrix(1.6143154,0,0,1.8641634,354.75732,1248.7689)" />
   </g>
 </svg>
