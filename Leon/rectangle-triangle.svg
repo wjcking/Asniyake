@@ -26,9 +26,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="540.37651"
-     inkscape:cx="499.76235"
-     inkscape:zoom="1.0541979"
+     inkscape:cy="621.38144"
+     inkscape:cx="521.31899"
+     inkscape:zoom="0.74543046"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -55,37 +55,37 @@
        xml:space="preserve"
        style="font-size:3.60868px;line-height:1.25;font-family:sans-serif;stroke-width:0.0422889"
        x="14.258381"
-       y="11.743847"
+       y="38.00943"
        id="text2819"><tspan
          sodipodi:role="line"
          id="tspan2817"
          x="14.258381"
-         y="11.743847"
+         y="38.00943"
          style="stroke-width:0.0422889">Axis.CenterKover</tspan><tspan
          sodipodi:role="line"
          x="14.258381"
-         y="16.254696"
+         y="42.520283"
          style="stroke-width:0.0422889"
          id="tspan2821">Flat.Sequence Count.Sum:2(1)</tspan><tspan
          id="tspan1253"
          sodipodi:role="line"
          x="14.258381"
-         y="20.765549"
+         y="47.031132"
          style="stroke-width:0.0422889">Flat.Sequence?:</tspan><tspan
          id="tspan1255"
          sodipodi:role="line"
          x="14.258381"
-         y="25.276398"
+         y="51.541981"
          style="stroke-width:0.0422889">Area-&gt;Small.Angle</tspan><tspan
          id="tspan1257"
          sodipodi:role="line"
          x="14.258381"
-         y="29.787247"
+         y="56.05283"
          style="stroke-width:0.0422889">Circle~Transact.Caide</tspan><tspan
          id="tspan1259"
          sodipodi:role="line"
          x="14.258381"
-         y="34.298096"
+         y="60.563679"
          style="stroke-width:0.0422889">Rect-Ruled.Side|Angle</tspan></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.499999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
@@ -93,7 +93,7 @@
        width="15.253552"
        height="15.253552"
        x="20.511835"
-       y="38.112125"
+       y="64.377708"
        rx="0"
        ry="0" />
     <path
@@ -113,19 +113,19 @@
        d="M 100.74877,109.22296 88.811925,108.7704 76.87508,108.31784 83.235432,98.206511 89.595785,88.095181 95.172278,98.659073 Z"
        inkscape:transform-center-x="0.0045154727"
        inkscape:transform-center-y="-1.4443217"
-       transform="matrix(0.19547996,0.37171178,0.37171178,-0.19547996,-10.591085,37.366009)" />
+       transform="matrix(0.19547996,0.37171178,0.37171178,-0.19547996,-10.591085,63.631593)" />
     <ellipse
        style="fill:none;stroke:#000000;stroke-width:0.30213;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        id="path2825"
-       cx="58.974419"
-       cy="49.220829"
+       cx="-31.180426"
+       cy="48.15601"
        rx="4.2671809"
        ry="4.4947643" />
     <rect
        transform="scale(1,-1)"
        ry="0"
        rx="0"
-       y="-143.95837"
+       y="-170.22395"
        x="52.254887"
        height="25.309166"
        width="25.309166"
@@ -133,51 +133,52 @@
        style="fill:none;stroke:#000000;stroke-width:0.191834;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke" />
     <text
        id="text2819-1-4-4"
-       y="66.42292"
+       y="92.688507"
        x="14.226963"
        style="font-size:3.60868px;line-height:1.25;font-family:sans-serif;stroke-width:0.0422889"
        xml:space="preserve"><tspan
          style="stroke-width:0.0422889"
-         y="66.42292"
+         y="92.688507"
          x="14.226963"
          sodipodi:role="line"
          id="tspan5979-7-5">正三角形融在里面</tspan><tspan
          style="stroke-width:0.0422889"
-         y="71.024658"
+         y="97.290245"
          x="14.226963"
          sodipodi:role="line"
          id="tspan1183">Route.HandDraw.Dotline.RectangleWrappered</tspan><tspan
          style="stroke-width:0.0422889"
-         y="75.535507"
+         y="101.80109"
          x="14.226963"
          sodipodi:role="line"
          id="tspan1185">1.边贴后 三角形一个角不顶边</tspan><tspan
          style="stroke-width:0.0422889"
-         y="80.137245"
+         y="106.40283"
          x="14.226963"
          sodipodi:role="line"
          id="tspan1187">2.Axis.SideAttach.LeftOneAngle=Substract.Distance </tspan><tspan
          style="stroke-width:0.0422889"
-         y="84.648094"
+         y="110.91368"
          x="14.226963"
          sodipodi:role="line"
          id="tspan1189">3.顶角后 距离按照两边之核？未确定 应该是</tspan><tspan
          style="stroke-width:0.0422889"
-         y="89.249832"
+         y="115.51542"
          x="14.226963"
          sodipodi:role="line"
          id="tspan1191">4.Left.TwoAngles:</tspan><tspan
          style="stroke-width:0.0422889"
-         y="93.760681"
+         y="120.02627"
          x="14.226963"
          sodipodi:role="line"
          id="tspan1193">    Attached(顶？) </tspan><tspan
          style="stroke-width:0.0422889"
-         y="98.362419"
+         y="124.62801"
          x="14.226963"
          sodipodi:role="line"
          id="tspan1195">    Not</tspan></text>
     <g
+       transform="translate(0,26.265584)"
        id="g2103">
       <rect
          transform="scale(1,-1)"
@@ -210,42 +211,42 @@
     </g>
     <text
        id="text2005"
-       y="119.76898"
+       y="146.03456"
        x="83.82756"
        style="font-size:3.20372px;line-height:1.25;font-family:sans-serif;stroke-width:0.109218"
        xml:space="preserve"><tspan
          style="font-size:3.20372px;stroke-width:0.109218"
-         y="119.76898"
+         y="146.03456"
          x="83.82756"
          id="tspan2003"
          sodipodi:role="line">Device.Computer.Dotline.Rotate</tspan><tspan
          id="tspan2013"
          style="font-size:3.20372px;stroke-width:0.109218"
-         y="123.77364"
+         y="150.03922"
          x="83.82756"
          sodipodi:role="line">    顶角 转 划边 Triangle.Center != Rectangle.Center</tspan><tspan
          id="tspan2019"
          style="font-size:3.20372px;stroke-width:0.109218"
-         y="127.85897"
+         y="154.12456"
          x="83.82756"
          sodipodi:role="line">    不能贴边？不能绝对贴边 所以缩小范围在转</tspan><tspan
          id="tspan2007"
          style="font-size:3.20372px;stroke-width:0.109218"
-         y="131.94431"
+         y="158.20988"
          x="83.82756"
          sodipodi:role="line">Leon.Device.ActualDirect</tspan><tspan
          id="tspan2017"
          style="font-size:3.20372px;stroke-width:0.109218"
-         y="135.94896"
+         y="162.21454"
          x="83.82756"
          sodipodi:role="line">    Keyword.Penitriate.Particle&amp;Molecule</tspan><tspan
          id="tspan2009"
          style="font-size:3.20372px;stroke-width:0.109218"
-         y="139.95361"
+         y="166.21919"
          x="83.82756"
          sodipodi:role="line" /></text>
     <path
-       transform="matrix(0.36103945,0.9912997,-0.99190731,0.36121904,56.606067,-32.755377)"
+       transform="matrix(0.36103945,0.9912997,-0.99190731,0.36121904,56.606067,-6.4897927)"
        sodipodi:type="star"
        style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.183933;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        id="path2829-1-8-5-3"
@@ -265,8 +266,8 @@
     <rect
        ry="0"
        rx="0"
-       y="158.57843"
-       x="75.702469"
+       y="217.14359"
+       x="-52.430988"
        height="29.1054"
        width="29.1054"
        id="rect2827-4"
@@ -274,58 +275,58 @@
     <circle
        transform="rotate(-105)"
        r="13.934593"
-       cy="42.370163"
-       cx="-190.5916"
+       cy="-96.555031"
+       cx="-213.99782"
        id="path2091"
-       style="fill:#f9f9f9;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke;stroke-miterlimit:4;stroke-dasharray:none" />
+       style="fill:#f9f9f9;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke" />
     <text
        id="text2095"
-       y="202.1198"
-       x="6.5938549"
-       style="font-size:6.43577px;line-height:1.25;font-family:sans-serif;stroke-width:0.075419"
+       y="95.233841"
+       x="113.82521"
+       style="font-size:3.33476px;line-height:1.25;font-family:sans-serif;stroke-width:0.0390791"
        xml:space="preserve"><tspan
          id="tspan2105"
-         style="stroke-width:0.075419"
-         y="202.1198"
-         x="6.5938549"
+         style="stroke-width:0.0390791"
+         y="95.233841"
+         x="113.82521"
          sodipodi:role="line">Solid.AreaCut=Shapes?.Utilize:Sequence.Count</tspan><tspan
          id="tspan2111"
-         style="stroke-width:0.075419"
-         y="210.16451"
-         x="6.5938549"
+         style="stroke-width:0.0390791"
+         y="99.40229"
+         x="113.82521"
          sodipodi:role="line">Rectangle(Triangle)=Sum2(1).AxisCenter.AreaCut</tspan><tspan
          id="tspan2113"
-         style="stroke-width:0.075419"
-         y="218.20923"
-         x="6.5938549"
+         style="stroke-width:0.0390791"
+         y="103.57074"
+         x="113.82521"
          sodipodi:role="line">AreaScale.Smallist=Shape.Count1</tspan><tspan
          id="tspan2115"
-         style="stroke-width:0.075419"
-         y="226.25394"
-         x="6.5938549"
+         style="stroke-width:0.0390791"
+         y="107.73919"
+         x="113.82521"
          sodipodi:role="line">AreaScale.Biggist=Shape.Count1</tspan><tspan
          id="tspan2119"
-         style="stroke-width:0.075419"
-         y="234.29865"
-         x="6.5938549"
+         style="stroke-width:0.0390791"
+         y="111.90764"
+         x="113.82521"
          sodipodi:role="line">Rectangle(Circle)=Sum2(1).AxisCenter.AreaCut</tspan><tspan
          id="tspan2123"
-         style="stroke-width:0.075419"
-         y="242.34335"
-         x="6.5938549"
+         style="stroke-width:0.0390791"
+         y="116.07609"
+         x="113.82521"
          sodipodi:role="line">AreaScale.AreaEquals=Shape.Count4</tspan><tspan
          id="tspan2117"
-         style="stroke-width:0.075419"
-         y="250.38808"
-         x="6.5938549"
+         style="stroke-width:0.0390791"
+         y="120.24454"
+         x="113.82521"
          sodipodi:role="line" /></text>
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.191834;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect2127"
        width="25.309166"
        height="25.309166"
-       x="26.864782"
-       y="-182.48276"
+       x="-39.50906"
+       y="-164.73575"
        rx="0"
        ry="0"
        transform="scale(1,-1)" />
@@ -378,7 +379,7 @@
        id="path2135"
        style="fill:#cccccc;fill-opacity:1;stroke:#000000;stroke-width:0.183933;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        sodipodi:type="star"
-       transform="matrix(0.36103945,0.9912997,-0.99190731,0.36121904,31.215963,5.7690036)" />
+       transform="matrix(0.36103945,0.9912997,-0.99190731,0.36121904,-35.157878,-11.978013)" />
     <rect
        style="fill:none;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
        id="rect2137"
