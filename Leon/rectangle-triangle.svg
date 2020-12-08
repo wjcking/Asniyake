@@ -134,9 +134,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0717324"
-     inkscape:cx="204.42136"
-     inkscape:cy="888.18377"
+     inkscape:zoom="8.2869298"
+     inkscape:cx="288.35774"
+     inkscape:cy="820.17801"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -828,5 +828,36 @@
        id="path1090-6"
        d="m 106.64855,226.76057 c -1.10976,0 -2.21947,0 -2.77431,-0.006 -0.55484,-0.006 -0.55484,-0.0164 -0.55484,-0.0269"
        style="fill:none;stroke:#00ff00;stroke-width:0.0961972;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.577183, 0.0961972;stroke-dashoffset:0;stroke-opacity:1" />
+    <rect
+       y="211.6759"
+       x="65.606888"
+       height="0.45152712"
+       width="0.45152712"
+       id="rect1140"
+       style="fill:#ff0000;stroke:#000080;stroke-width:0.0961972;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.577183, 0.09619720000000000;stroke-dashoffset:0;paint-order:markers fill stroke" />
+    <circle
+       r="0.45606616"
+       cy="233.88422"
+       cx="64.168159"
+       id="path1150"
+       style="fill:#000000;stroke:#000000;stroke-width:0.194328;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.16597, 0.194328;stroke-dashoffset:0;paint-order:markers fill stroke" />
+    <path
+       d="m 157.31638,53.876433 -11.93684,-0.452561 -11.93685,-0.452563 6.36035,-10.111329 6.36036,-10.111329 5.57649,10.563891 z"
+       transform="matrix(0.03179098,-9.8458604e-4,9.8399514e-4,0.03181007,49.005433,221.80926)"
+       sodipodi:type="star"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.183933;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+       id="path1152"
+       sodipodi:sides="3"
+       sodipodi:cx="145.64082"
+       sodipodi:cy="46.532131"
+       sodipodi:r1="13.793383"
+       sodipodi:r2="6.8966923"
+       sodipodi:arg1="0.56149366"
+       sodipodi:arg2="1.6086912"
+       inkscape:flatsided="false"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       inkscape:transform-center-x="0.0023871469"
+       inkscape:transform-center-y="-0.16950107" />
   </g>
 </svg>
