@@ -1,0 +1,56 @@
+body,td,th {
+	font-family: ÐÂËÎÌå;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+body {
+	background-color: #622e13;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+a {
+	font-size: 12px;
+	color: #FFFFFF;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+a:hover {
+	text-decoration: none;
+	color: #000000;
+}
+a:active {
+	text-decoration: none;
+	color: #000000;
+}
+
+.top1{ background-color:#2D1509;}
+.top2{ background-color:#622E13;}
+
+ul,li{list-style:none;}
+
+
+.xunhuan1{height:auto; float:left;}
+.xunhuan1 ul{ padding:0px; margin:0px;}
+.xunhuan1 ul li{  float:left; text-align:center; list-style:none; width:249px; line-height:25px;}
+
+
+.menoun{color:#ffffff; font-size:16px; font-weight:bold;  line-height:40px;}
+.menoun a{color:#ffffff;font-size:16px;text-decoration: none; font-weight:bold;}
+.menoun a:link{color:#ffffff;font-size:16px;text-decoration: none; font-weight:bold;}
+.menoun a:visited{color:#ffffff;font-size:16px;text-decoration: none; font-weight:bold;}
+.menoun a:hover{color:#ff0000;font-size:16px;text-decoration: none; font-weight:bold;}
+.menoun a:active{color:#ff0000;font-size:16px;text-decoration: none; font-weight:bold;}
+
+
+
+.xunhuan{height:auto; float:left;}
+.xunhuan ul{ padding:0px; margin:0px;}
+.xunhuan ul li{  float:left; text-align:center; list-style:none; width:350px; line-height:25px;}
+
